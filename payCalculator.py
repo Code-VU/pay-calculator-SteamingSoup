@@ -5,7 +5,7 @@ def calculatePay():
     hours = input('Enter Hours: ')
     rate = input('Enter Rate: ')
     gross_pay = float(hours)*float(rate)
-    print(f'Gross pay = {gross_pay}')
+    print(f'{gross_pay}')
     # end assignment
 
 ## if you want to test locally before you try to sync
